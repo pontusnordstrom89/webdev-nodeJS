@@ -1,0 +1,25 @@
+----Node.js----
+
+#Introduktion
+
+Skapa en webbplats för att utförligt lära och testa olika programspråk, därför ska alla 
+webbplatser innehålla vissa funktioner och möta vissa kriterier.
+
+#Webbplatsens funktioner
+
+1. Webbplats i virtuellt env med databas
+2. Kontaktformulär, sparar kunder/kontakter till databas och skickar mail till admin
+3. Användare, registrera, logga in, logga ut och radera konto.
+4. Backend för admin, och profilsida för Användare
+5. Blogg/feed, inloggad användare kan skapa inlägg, redigera och radera. Behörigheter
+6. Bokningsystem, ej inloggad kan se, inloggad kan boka och admin kan ändra
+7. Forum
+
+
+
+# Moduler, bibliotek, ramverk
+
+HTML, CSS, JavaScript
+Express
+http
+MSSQL
